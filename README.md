@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+git@github.com:geruharuto/Rails-CARAVAN.git
